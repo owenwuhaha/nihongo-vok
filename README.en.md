@@ -4,13 +4,13 @@
 
 # NihongoVok · 日剧词
 
-### Learn authentic Japanese from Japanese dramas, films and anime.
+### Turn Japanese TV, anime, film & podcast subtitles into an offline HTML flashcard deck.
 
 Author: 疯狂的豇豆 · [www.crazyowen.cn](https://www.crazyowen.cn)
 
-Give the name and episode of a Japanese show, and NihongoVok adds that episode's vocabulary into your reusable HTML study page.
+> The idiomatic phrases you pick up from a Japanese show or anime are often the most useful — and the hardest to memorize. Feed a Japanese series, anime, film, or podcast into **NihongoVok** and it extracts that episode's high-frequency words into an HTML flashcard deck you can open with a double-click: offline, no Anki, no network.
 
-[Open the demo](https://github.com/owenwuhaha/nihongo-vok/raw/refs/heads/main/examples/demo.html) · [Install to Codex](#install-to-codex) · [Usage](#usage)
+[Open the live demo (8 original Japanese sentences)](https://github.com/owenwuhaha/nihongo-vok/raw/refs/heads/main/examples/demo.html) · [Install](#install) · [Usage](#usage)
 
 ![MIT License](https://img.shields.io/github/license/owenwuhaha/nihongo-vok?style=flat-square)
 ![Reusable HTML](https://img.shields.io/badge/output-reusable%20HTML-235a47?style=flat-square)
@@ -18,7 +18,21 @@ Give the name and episode of a Japanese show, and NihongoVok adds that episode's
 
 </div>
 
-**NihongoVok** pulls practical expressions from the real Japanese subtitles of a chosen episode and adds them to one reusable HTML study page. The first run creates the page with the first deck; later episodes merge into the same file. Open the page to switch decks. Flashcard self-rating is the default; you can switch to typed recall (type the Japanese in kana or kanji from a Chinese prompt) with auto-grading and retry.
+---
+
+**In one line**: type “NihongoVok + show + episode” and it produces `~/Documents/nihongo-vok.html` — that episode's high-frequency practical Japanese words, each with kana reading, romaji, part of speech and grammar notes, plus Japanese TTS. Self-rated flashcards by default; switch to typed recall with auto-grading and retry. Each new episode merges back into the same file, so **one HTML file is your Japanese word bank**.
+
+**Who it's for**: people studying Japanese through shows/anime/films/podcasts and wanting to build vocabulary along the way; JLPT (N5–N1) / J.TEST / NAT-TEST exam prep using real sentences; anyone who wants flashcards with **zero install, fully offline**.
+
+**Why it's different**:
+
+| What you get | Notes |
+|---|---|
+| **Authentic language** | Every card comes from real subtitles, not textbook lines |
+| **Zero friction** | Double-click the HTML — no Anki, no server, no internet |
+| **Japanese detail** | Kanji words show kana reading + romaji; parts of speech marked; set phrases / particle combos / suffixes in grammar notes |
+| **Level-matched** | Defaults to JLPT N3–N2; give it your target level and it filters accordingly, with difficulty check-back |
+| **Always available** | Offline TTS (`ja-JP`), wrong answers auto-requeued for retry |
 
 > The demo uses 8 original Japanese sentences to show the features; it is not from any specific show.
 

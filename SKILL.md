@@ -3,9 +3,9 @@ name: nihongo-vok
 version: 1.0.0
 display_name: 日剧词
 display_name_en: NihongoVok
-description: 日剧词，从日语影视/剧集/电影/动画/播客的真实日语字幕中提取适合 JLPT 等级与考试（JLPT N1–N5 / J.TEST / NAT-TEST）的词汇，加入通用 HTML 学习器；默认翻卡自评，可选输入回忆。用于“日剧词”“看日剧学日语”“日语词汇”“日本語を学ぶ”“日语剧”“Nihongo vocab”“JLPT 单語”等请求。
-description_zh: 日剧词（NihongoVok）把日语影视剧、电影、动画、播客的真实日语字幕变成可随时学习的词汇卡。给出一部日语剧集和集数，它就把这一集的日语词条（含假名读音、罗马字、品詞、语法备注与 ja-JP 朗读）加入同一个独立 HTML 学习器；默认翻卡自评，可选输入回忆，无需 Anki、服务器或运行时。
-description_en: NihongoVok turns real Japanese subtitles from TV series, films, anime and podcasts into a reusable, standalone HTML vocabulary trainer. Give it a Japanese show and episode, and it adds that episode's words (with kana reading, romaji, part of speech, grammar notes and ja-JP TTS) into one HTML file — flashcard self-rating by default, with optional typed recall, no Anki/server/runtime needed.
+description: 把日语影视剧、动画、电影、播客的字幕变成一个能离线刷的 HTML 单词卡学习器。说出「日剧词 + 剧名集数」，它就把该集的高频实用日语词（带假名读音、罗马字、品詞、语法备注，并支持日语朗读）加进同一个网页；默认翻卡自评，也可切成「输入回忆」错词重练，无需安装 Anki / 服务器 / 网络。支持按 JLPT N5–N1 / J.TEST / NAT-TEST 等级筛词。也用于「看日剧学日语」「日语词汇积累」「日剧词」。
+description_zh: 日剧词 · NihongoVok（日语版语言学习 skill）：把日语影视剧、动画、电影、播客的字幕变成一个能离线刷的 HTML 单词卡学习器。说出「日剧词 + 剧名集数」，它就把该集的高频实用日语词（带假名读音、罗马字、品詞、语法备注，并支持日语朗读）加进同一个网页；默认翻卡自评，也可切成「输入回忆」错词重练，无需安装 Anki / 服务器 / 网络。支持按 JLPT N5–N1 / J.TEST / NAT-TEST 等级筛词。
+description_en: NihongoVok — Japanese language-learning skill. It turns Japanese TV/anime/film/podcast subtitles into a standalone, offline HTML flashcard deck. Tell it "show + episode" and it extracts high-frequency practical Japanese words (with kana reading, romaji, part of speech, grammar notes and ja-JP TTS) into one reusable web page. Default is self-rating flashcards; you can switch to typed recall with auto-retry. No Anki, server, or network needed. Levels by JLPT N5–N1 / J.TEST / NAT-TEST.
 ---
 
 # 日剧词
