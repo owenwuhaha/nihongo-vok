@@ -1,0 +1,109 @@
+{
+  "title": "日语剧集 实例句 · JLPT N3–N2",
+  "deck_id": "demo:jpn:N3N2",
+  "language": "日本語",
+  "exam_target": "JLPT",
+  "level_target": "N3–N2",
+  "selection_basis": "日语原字幕；按 JLPT N3–N2 高频范围筛选",
+  "difficulty_feedback": "",
+  "sources": ["https://www.nhk.jp/drama/", "https://www3.nhk.or.jp/news/easy/"],
+  "note": "示例词库，演示日剧词词卡字段（表记/読み/ローマ字/品詞/文法）。",
+  "cards": [
+    {
+      "term": "修理",
+      "reading": "しゅうり",
+      "romaji": "shūri",
+      "pos": "名詞",
+      "grammar": "~する 動詞；「修理する」",
+      "answers": ["修理", "しゅうり"],
+      "meaning": "修理；维修",
+      "sentence": "このパソコンは修理が必要です。",
+      "translation": "这台电脑需要修理。",
+      "targets": ["修理"]
+    },
+    {
+      "term": "我慢",
+      "reading": "がまん",
+      "romaji": "gaman",
+      "pos": "名詞",
+      "grammar": "~する 動詞；「我慢する」",
+      "answers": ["我慢", "がまん"],
+      "meaning": "忍耐；忍受",
+      "sentence": "暑さを我慢する。",
+      "translation": "忍受炎热。",
+      "targets": ["我慢"]
+    },
+    {
+      "term": "預ける",
+      "reading": "あずける",
+      "romaji": "azukeru",
+      "pos": "動詞(他)",
+      "grammar": "他動詞；て形「預けて」；反義「受け取る」",
+      "answers": ["預ける", "あずける"],
+      "meaning": "寄存；托付",
+      "sentence": "荷物をロッカーに預ける。",
+      "translation": "把行李寄存在储物柜。",
+      "targets": ["預ける"]
+    },
+    {
+      "term": "励ます",
+      "reading": "はげます",
+      "romaji": "hagemasu",
+      "pos": "動詞(他)",
+      "grammar": "他動詞；反義「落ち込む」",
+      "answers": ["励ます", "はげます"],
+      "meaning": "鼓励；打气",
+      "sentence": "友達を励ます。",
+      "translation": "鼓励朋友。",
+      "targets": ["励ます"]
+    },
+    {
+      "term": "忘れっぽい",
+      "reading": "わすれっぽい",
+      "romaji": "wasureppoi",
+      "pos": "い形容詞",
+      "grammar": "接尾辞「〜っぽい」表倾向",
+      "answers": ["忘れっぽい", "わすれっぽい"],
+      "meaning": "健忘的；容易忘的",
+      "sentence": "彼は忘れっぽい。",
+      "translation": "他是个健忘的人。",
+      "targets": ["忘れっぽい"]
+    },
+    {
+      "term": "風邪気味",
+      "reading": "かぜぎみ",
+      "romaji": "kazegimi",
+      "pos": "名詞",
+      "grammar": "接尾辞「〜気味」表稍有～",
+      "answers": ["風邪気味", "かぜぎみ"],
+      "meaning": "有点感冒",
+      "sentence": "今日は風邪気味だ。",
+      "translation": "今天有点感冒。",
+      "targets": ["風邪気味"]
+    },
+    {
+      "term": "訳",
+      "reading": "わけ",
+      "romaji": "wake",
+      "pos": "名詞",
+      "grammar": "「〜わけだ」表缘由",
+      "answers": ["訳", "わけ"],
+      "meaning": "道理；缘故；原因",
+      "sentence": "そういう訳だ。",
+      "translation": "原来如此。",
+      "targets": ["訳"]
+    },
+    {
+      "term": "気をつける",
+      "reading": "きをつける",
+      "romaji": "ki o tsukeru",
+      "pos": "慣用句",
+      "grammar": "「〜に気をつける」注意～",
+      "answers": ["気をつける", "きをつける", "気をつけて"],
+      "meaning": "注意；小心",
+      "sentence": "足元に気をつけて。",
+      "translation": "请注意脚下。",
+      "targets": ["気をつけて"]
+    }
+  ]
+}
